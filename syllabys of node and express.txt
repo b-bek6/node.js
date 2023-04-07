@@ -1,0 +1,80 @@
+contains the syllabus of node and expressNode JS: 
+node js
+• Introduction to nodejs 
+• Node package manager (npm)
+* Global Object 
+• Node modules // import and export
+• Node CLI
+• Creating http server with nodejs 
+• Working on core NODE API 
+• Asynchronous and event loop in node js 
+
+Express JS: 
+• Introduction to framework and Express
+• The model-view-controller pattern in ExpressJS 
+• Middlewares 
+• Routing 
+• HTTP Protocol  
+• Http Request Object 
+• Http Response Object 
+• User authentication using jwt (json web token) 
+• Garbage collection and error handling
+
+
+
+in node js
+    -> global objecct in node js -> __file name
+            - global objects are pre defined function and variables of node js like settimeout, setintervals and many more
+            - 
+
+
+Backend/ full-stack
+
+-> node and express fundamentals
+-> express.js
+-> mongoDB, Mongoose
+-> Application
+-> Deployment
+
+what is nodejs ?
+
+-> Environment to run js outside browser
+-> Build on chrome's v8 engine
+-> Big community
+-> full-stack
+
+Requirements
+-> HTML, css, js, es6
+-> callbacks, promises, Async-Await
+-> Youtube - coding addict
+-> Playlist - JS nuggets
+
+
+browser                     node.js
+-> dom                      -> no dom
+-> window                   -> no window 
+-> interactive app          -> server side apps 
+-> no file system           -> file system 
+-> fragmentation            -> versions 
+-> es6 modules              -> CommonJS
+
+
+(install node js) cli -> inside terminal 
+
+
+execute node commapds ->
+open terminal and type node app.js;
+
+just in case find the code in johnsmilga.com
+in github john-smilga (node-express-course)
+
+
+bult in modules
+-> os modules
+-> path modules
+-> fs modules
+-> http moudles
+
+http
+-> breif Introduction
+-> cover in detail later (next section)
