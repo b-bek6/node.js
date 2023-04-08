@@ -78,3 +78,10 @@ bult in modules
 http
 -> breif Introduction
 -> cover in detail later (next section)
+
+
+upcoming topics
+
+-> event loops, async patterns, event emitter and streams
+-> main concepts
+-> pre-built code
