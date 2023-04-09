@@ -85,3 +85,9 @@ upcoming topics
 -> event loops, async patterns, event emitter and streams
 -> main concepts
 -> pre-built code
+
+event loops (nodejs.dev/learn/the-nodejs-events-loop)
+
+call stack
+callbacks queue 
+web api (web windows)
