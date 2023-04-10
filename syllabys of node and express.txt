@@ -91,3 +91,7 @@ event loops (nodejs.dev/learn/the-nodejs-events-loop)
 call stack
 callbacks queue 
 web api (web windows)
+
+events 
+-> event-driven programming
+-> used heavily in Node.js
